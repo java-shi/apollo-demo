@@ -1,0 +1,8 @@
+app:
+  id: shi-service
+apollo:
+  meta: http://127.0.0.1:8080
+  bootstrap:
+    enabled: true
+    namespace: application
+  cluster: SHAJQ
